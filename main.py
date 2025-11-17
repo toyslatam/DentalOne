@@ -17,7 +17,7 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 app = Flask(__name__)
 
 APPS = {
-    "app_a": {
+    "app_d": {
         "CLIENT_ID": 'ABpiC27UvCiXPjumk5T54cZWy4rxjkvc1rgxGpDx6uyfzndQeY',
         "CLIENT_SECRET": 'amnhCOVk017cvhE9pkK1WSxD07Lj5AHVLoP4695m',
         "WEBHOOK_VERIFICATION_TOKEN": 'a8d34ea3-6986-4c2a-81be-ccd9e3c052b5',
