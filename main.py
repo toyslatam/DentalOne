@@ -20,8 +20,8 @@ APPS = {
     "app_d": {
         "CLIENT_ID": 'ABhqqwuSq1Bz1VZXKOU8QhaIIUfQZGtbfzQYspoPZoLgjoS75f',
         "CLIENT_SECRET": 'QHCjgQoYvFtXqZwmAbfS7zTwDO0GBMwRPFf6nCYE',
-        "WEBHOOK_VERIFICATION_TOKEN": 'a8d34ea3-6986-4c2a-81be-ccd9e3c052b5',
-        "POWER_AUTOMATE_URL": "https://prod-113.westus.logic.azure.com:443/workflows/c55f68d9f1374b9285645d9e6e31ca8c/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Y9uDfvLhBlo-4KFqndYPp4tt7OX7ZAyvEr3yH2FJhhA"
+        "WEBHOOK_VERIFICATION_TOKEN": '9bfd7ac7-6c17-4280-9d96-8f329262e65f',
+        "POWER_AUTOMATE_URL": "https://dentalone-nki5.onrender.com/"
     }
 }
 
