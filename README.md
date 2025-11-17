@@ -1,2 +1,0 @@
-# DentalOne
-Contiene Estructura Api
