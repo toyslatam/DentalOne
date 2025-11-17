@@ -18,8 +18,8 @@ app = Flask(__name__)
 
 APPS = {
     "app_d": {
-        "CLIENT_ID": 'ABhqqwuSq1Bz1VZXKOU8QhaIIUfQZGtbfzQYspoPZoLgjoS75f',
-        "CLIENT_SECRET": 'QHCjgQoYvFtXqZwmAbfS7zTwDO0GBMwRPFf6nCYE',
+        "CLIENT_ID": 'ABopRXjBPnTSg0HCs7M9pm0kPWCQPyGRsfGqkU7RhvpmCqNSiw',
+        "CLIENT_SECRET": 'nb51fvw4WLoswRsRCyy3Obe8IdOddB6Gryw6q8KS',
         "WEBHOOK_VERIFICATION_TOKEN": '9bfd7ac7-6c17-4280-9d96-8f329262e65f',
         "POWER_AUTOMATE_URL": "https://dentalone-nki5.onrender.com/app_d/callback"
     }
