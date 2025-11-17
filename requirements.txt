@@ -1,0 +1,7 @@
+flask
+intuit-oauth
+
+gunicorn
+python-dotenv
+supabase
+requests==2.31.0
