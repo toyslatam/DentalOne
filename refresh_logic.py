@@ -12,17 +12,8 @@ APPS = {
     "app_a": {
         "CLIENT_ID": os.environ["APP_A_CLIENT_ID"],
         "CLIENT_SECRET": os.environ["APP_A_CLIENT_SECRET"],
-    },
-    "app_b": {
-        "CLIENT_ID": os.environ["APP_B_CLIENT_ID"],
-        "CLIENT_SECRET": os.environ["APP_B_CLIENT_SECRET"],
-    },
-
-
-    "app_c": {
-        "CLIENT_ID": os.environ["APP_C_CLIENT_ID"],
-        "CLIENT_SECRET": os.environ["APP_C_CLIENT_SECRET"],
     }
+  
 }
 
 RENDER_DOMAIN = os.environ.get("RENDER_DOMAIN", "https://quickbooks-webhook.onrender.com")
