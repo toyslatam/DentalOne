@@ -16,7 +16,7 @@ APPS = {
   
 }
 
-RENDER_DOMAIN = os.environ.get("RENDER_DOMAIN", "https://quickbooks-webhook.onrender.com")
+RENDER_DOMAIN = os.environ.get("RENDER_DOMAIN", "https://dentalone-nki5.onrender.com")
 ENVIRONMENT = os.environ.get("ENVIRONMENT", "production")
 
 def refresh_tokens_once():
