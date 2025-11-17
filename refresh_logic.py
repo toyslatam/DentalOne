@@ -10,8 +10,8 @@ supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 APPS = {
     "app_d": {
-        "CLIENT_ID": os.environ["APP_A_CLIENT_ID"],
-        "CLIENT_SECRET": os.environ["APP_A_CLIENT_SECRET"],
+        "CLIENT_ID": os.environ["APP_D_CLIENT_ID"],
+        "CLIENT_SECRET": os.environ["APP_D_CLIENT_SECRET"],
     }
   
 }
