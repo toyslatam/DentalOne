@@ -26,7 +26,7 @@ APPS = {
 }
 
 ENVIRONMENT = 'production'
-RENDER_DOMAIN = 'https://quickbooks-webhook.onrender.com'
+RENDER_DOMAIN = 'https://dentalone-nki5.onrender.com'
 
 
 @app.route('/')
