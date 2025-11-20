@@ -21,7 +21,7 @@ APPS = {
         "CLIENT_ID": 'ABopRXjBPnTSg0HCs7M9pm0kPWCQPyGRsfGqkU7RhvpmCqNSiw',
         "CLIENT_SECRET": 'nb51fvw4WLoswRsRCyy3Obe8IdOddB6Gryw6q8KS',
         "WEBHOOK_VERIFICATION_TOKEN": '9bfd7ac7-6c17-4280-9d96-8f329262e65f',
-        "POWER_AUTOMATE_URL": "https://dentalone-nki5.onrender.com/app_d/webhook"
+        "POWER_AUTOMATE_URL": "https://default643dd7a65d6c489581296201ce6b36.64.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/12032f8add4e481ba01d1eeb55685c72/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=8ht-gOTzp8oydB4Vx4EjjykBIfpbyb4ctn1ouUZrjJc"
     }
 }
 
